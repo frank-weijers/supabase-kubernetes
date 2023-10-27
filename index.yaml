@@ -17,7 +17,7 @@ entries:
     name: supabase
     type: application
     urls:
-    - https://supabase-community.github.io/supabase-kubernetes/build/supabase-0.0.2.tgz
+    - https://github.com/frank-weijers/supabase-kubernetes/raw/main/build/supabase-0.0.2.tgz
     version: 0.0.2
   - apiVersion: v2
     created: "2023-02-10T15:04:18.111993-05:00"
